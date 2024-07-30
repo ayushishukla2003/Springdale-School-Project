@@ -1,44 +1,55 @@
-To see the preview of the website 
+# Springdale School Project
 
-https://springdale-school-ayushi-84nmz7os8-ayushishukla2003s-projects.vercel.app
+To see the preview of the website:
 
+[Springdale School Preview](https://springdale-school-ayushi-84nmz7os8-ayushishukla2003s-projects.vercel.app)
 
+This project is created with React and Vite. Here’s how you can download and run this project:
 
-This project is created with React and Vite. Here’s how you can download and run a this project:
-
-Step 1: Install Git and Node.js
+### Step 1: Install Git and Node.js
 Ensure you have Git and Node.js installed on your machine.
-Git: Download Git and follow the installation instructions.
-Node.js: Download Node.js and follow the installation instructions. This will also install npm (Node Package Manager).
 
+- **Git:** [Download Git](https://git-scm.com/downloads) and follow the installation instructions.
+- **Node.js:** [Download Node.js](https://nodejs.org/) and follow the installation instructions. This will also install npm (Node Package Manager).
 
-
-
-
-
-
-Step 2: Clone the Repository
+### Step 2: Clone the Repository
 Open your terminal (Command Prompt, PowerShell, or Terminal on macOS/Linux) and clone the repository using Git.
+
+```bash
 git clone https://github.com/ayushishukla2003/Springdale-School-Project.git
-Replace username with the GitHub username and repository-name with the name of the repository.
+```
 
-Step 3: Navigate to the Project Directory
+
+# Springdale School Project
+
+## Step 3: Navigate to the Project Directory
+
 Change to the project directory.
+
+```bash
 cd Springdale-School-Project
+```
 
+# Springdale School Project
 
-Step 4: Install Dependencies
+### Step 4: Install Dependencies
+
 Install the project's dependencies using npm or yarn.
+
+```bash
 npm install
+```
 
 
+# Springdale School Project
 
+### Step 5: Run the Project
 
+Start the Vite development server. For npm:
 
-Step 5: Run the Project
-Start the Vite development server.
-For npm:
+```bash
 npm run dev
+```
 
 
 
@@ -88,44 +99,3 @@ This will start the Vite development server and open the React app in your defau
 
 
 
-
-
-
-
-
-
-
-# Springdale School Project
-
-To see the preview of the website:
-
-[Springdale School Preview](https://springdale-school-ayushi-84mnz7os8-ayushishukla2003s-projects.vercel.app)
-
-This project is created with React and Vite. Here’s how you can download and run this project:
-
-### Step 1: Install Git and Node.js
-Ensure you have Git and Node.js installed on your machine.
-
-**Git:** [Download Git](https://git-scm.com/downloads) and follow the installation instructions.
-
-**Node.js:** [Download Node.js](https://nodejs.org/) and follow the installation instructions. This will also install npm (Node Package Manager).
-
-### Step 2: Clone the Repository
-Open your terminal and clone the repository using Git:
-
-```sh
-git clone https://github.com/username/repository-name.git
-
-
-
-
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-#ProjectChallenge
-# Springdale-School-Website
